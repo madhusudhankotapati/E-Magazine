@@ -1,0 +1,8 @@
+{
+  "name": "E-magazine  Layouts",
+  "description": "A high-end layout creation platform that leverages Gemini AI to transform simple titles and descriptions into professional multimedia presentations with images, videos, and audio.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
